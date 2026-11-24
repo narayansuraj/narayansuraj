@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Suraj Narayan 👋
 
-<!--
-**narayansuraj/narayansuraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (AI & ML) student at Chandigarh University, interested in Data Engineering, Cloud Computing, and Data Technologies.
 
-Here are some ideas to get you started:
+## Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Database Management Systems (DBMS)
+- Microsoft Azure
+- AI/ML Fundamentals
+
+## Certifications
+
+- Microsoft Azure AI Fundamentals (AI-900)
+- Microsoft Azure Data Fundamentals (DP-900)
+- Microsoft Azure Fundamentals (AZ-900)
+
+## Currently Learning
+
+- Python Programming
+- SQL and Database Management
+- Microsoft Azure and Cloud Technologies
